@@ -1,0 +1,7 @@
+{
+  "image_break_token": "[IMG_BREAK]",
+  "image_end_token": "[IMG_END]",
+  "image_token": "[IMG]",
+  "patch_size": 16,
+  "processor_class": "PixtralProcessor"
+}
